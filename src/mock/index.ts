@@ -4,7 +4,7 @@ export const defaultUser: LocalGithubUser = {
 	"login": "pshabanov",
 	"id": 31967154,
 	"avatar": "https://avatars.githubusercontent.com/u/31967154?v=4",
-	"name": "Pavel Shabanov",
+	"name": "Pavel Shabanov Vladimirovich",
 	"company": "O! Mobile operator",
 	"blog": "",
 	"location": "Bishkek",
